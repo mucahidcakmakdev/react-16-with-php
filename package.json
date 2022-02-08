@@ -1,0 +1,21 @@
+{
+  "name": "react-16-in-php",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "npx babel --watch assets/js --out-dir static/js --presets react-app/prod",
+    "build": "npx babel assets/js --out-dir static/js --presets react-app/prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mucahidcakmakdev/react-16-in-php.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}
