@@ -1,4 +1,4 @@
-# React In PHP !
+# React With PHP !
 
 On a ajouté React à un site PHP existant
 
@@ -6,10 +6,10 @@ On a ajouté React à un site PHP existant
 
 ```
 # On clone le dépot
-git clone https://github.com/mucahidcakmakdev/react-16-in-php.git
+git clone https://github.com/mucahidcakmakdev/react-16-with-php.git
 
 # On va dans le dossier
-cd react-16-in-php
+cd react-16-with-php
 
 # On installe les dépendances avec Composer
 composer install
