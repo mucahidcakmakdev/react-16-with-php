@@ -1,5 +1,5 @@
 {
-  "name": "react-16-in-php",
+  "name": "react-16-with-php",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mucahidcakmakdev/react-16-in-php.git"
+    "url": "git+https://github.com/mucahidcakmakdev/react-16-with-php.git"
   },
   "keywords": [],
   "author": "",
